@@ -3,7 +3,7 @@ public class Wohnung
     private String ort;         // "Wien"
     private boolean balkon;     //true
     private boolean gefordert;  //false
-    private int preis;          //200000
+    private int preis;          //20000
     private int anzZimmer;      //4
 
     public Wohnung()
